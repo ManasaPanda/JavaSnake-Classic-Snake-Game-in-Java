@@ -1,2 +1,2 @@
-# SnakeGame_Using_Java
+# JavaSnake 
 Technology used Java GUI and OOPS concept
